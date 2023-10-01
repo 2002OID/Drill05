@@ -16,6 +16,8 @@ hide_cursor()
 while running:
     clear_canvas()
     TUK_ground.draw(TUK_WIDTH // 2, TUK_HEIGHT // 2)
+    make_arrow()
+    go_cha_to_arr()
 
     frame = (frame + 1) % 8
 
