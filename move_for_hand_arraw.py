@@ -51,3 +51,5 @@ while running:
     delay(0.1)
 
 close_canvas()
+
+#fin
